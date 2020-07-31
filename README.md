@@ -17,5 +17,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="MySQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
+<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
+<img align="left" alt="mySQL" width="26px" src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" />
+
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
