@@ -16,10 +16,12 @@
 - [Expectation Maximisation Deep Dive](http://tlublog.com/posts/em)
 
 ### Languages and Tools:
-
 <img align="left" alt="Python" height="25px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
 <img align="left" alt="tf" height="25px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" />
 <img align="left" alt="pt" height="23px" src="https://notebooks.azure.com/troyliu0105/libraries/pytorch-tutorial/raw/logo/pytorch_logo.png" />
+<img align="left" alt="pt" height="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1024px-Scikit_learn_logo_small.svg.png
+" />
+
 <img align="left" alt="matlab" height="25px" src="https://www.mathworks.com/company/newsletters/articles/the-mathworks-logo-is-an-eigenfunction-of-the-wave-equation/_jcr_content/mainParsys/image_2.adapt.480.high.gif/1469941373397.gif" />
 <img align="left" alt="git" height="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/800px-Git-logo.svg.png" />
 
