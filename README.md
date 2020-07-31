@@ -36,6 +36,7 @@
 [mysql]: https://www.mysql.com/
 [git]: https://git-scm.com/
 
+---
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=xl402&show_icons=true&hide_border=true" />
 
