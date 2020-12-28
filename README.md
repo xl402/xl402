@@ -7,7 +7,7 @@
 - Interned at [Onfido](https://onfido.com/)'s ML research team in 2019
 - Interned at [ARM](https://www.arm.com/) as a Data Engineer in 2018
 
-### Here are my recent ML blog posts 📚
+### Here are my recent ML blog posts
 - [Variational Inference Part 1](http://tlublog.com/posts/vi2)
 - [Variational Inference Part 2](http://tlublog.com/posts/vi1)
 - [Few Shot Learning](http://tlublog.com/posts/few-shot)
