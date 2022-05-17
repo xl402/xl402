@@ -1,6 +1,6 @@
 ### Hi, I'm Tom Lu
 
-### A Data Scientist at [Seamless Capital](http://www.seamless-capital.com/)
+### A Quant Researcher at [Seamless Capital](http://www.seamless-capital.com/)
 
 - 2020 MEng Graduate from University of Cambridge
 - Currently utilising cutting edge ML to forecast alternative financial markets
